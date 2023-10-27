@@ -2,7 +2,7 @@
 This is a  language translation model based on Meta's MBART50 NLP which allows users to translate in over 50 languages 
 <h1 align="center" id="title">Language Translation Tool</h1>
 
-<p align="center">[<](https://socialify.git.ci/vverma022/Language-Translation-Model-/image?description=1&descriptionEditable=This%20is%20a%20%20language%20translation%20model%20based%20on%20Meta%27s%20MBART50%20NLP.&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)img src="" alt="project-image"></p>
+<p align="center">img src="" alt="project-image"></p>
 
 <p id="description">This is a language translation tool which allows you to translate in over 50 different languages with great accuracy. It is built on Metas MBART50 model which is open source.</p>
 
